@@ -1,0 +1,25 @@
+body{
+    background-color: #e580c9;
+}
+#container{
+    
+    background-color:rgb(226, 233, 132);
+    border: 5px solid ;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+#btn{
+    margin:50px auto;
+     height: 50px;
+    width: 250px;
+  font-size: 22px;
+background-color: rgb(76, 188, 100);
+}
+#output{
+    margin:25px auto;
+    font-size: 25px;
+    color: rgb(130, 14, 18);
+}
